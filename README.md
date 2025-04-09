@@ -28,8 +28,8 @@ Through this hands-on learning experience, I'm building a fully functional web a
 
 ## 🛠 Tools I'm Using
 
-- **Python 3.9.6 🐍  
-- **Django 4.2.20 🌐  
+- Python 3.9.6 🐍  
+- Django 4.2.20 🌐  
 - A lot of curiosity and enthusiasm 😄
 
 ---
