@@ -1,4 +1,4 @@
-#!/Users/chrisdiaz/Desktop/Github/01.learning_Django/05.realPython_Learning_Django/.env/bin/python3
+#!/home/chrisdiaz/Desktop/05.learningDjango/05.realPython_Learning_Django/.env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
